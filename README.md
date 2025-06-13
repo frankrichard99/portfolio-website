@@ -5,6 +5,12 @@ I'm Richard Chibuike, a passionate and evolving full-stack developer, building c
 
 ---
 
+## 🔗 Live Demo
+
+👉 Visit the site here:  
+**(https://portfolio-website-w9rc.onrender.com/)**
+
+---
 ## 🚀 About the Site
 
 This is more than just a portfolio — it's my digital playground.  
