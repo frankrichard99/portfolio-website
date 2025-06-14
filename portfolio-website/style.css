@@ -344,7 +344,14 @@ nav li{
     border: 2px solid black;
     cursor: pointer;
     
+    .download-link{
+        color: var(--bg-Color);
+    }
 
+}
+.download-link{
+    text-decoration: none;
+    color: white;
 }
 .my-works{
     border: 0;
