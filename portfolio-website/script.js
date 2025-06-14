@@ -49,7 +49,7 @@ function activateLine(){
 
     const typingElement = document.querySelector(".cursor-animation");
     const speed = 200;
-    const word = "Reimagined";
+    const word = "Webapp Developer";
     let newIndex = word.length;
 
     function addType(){
